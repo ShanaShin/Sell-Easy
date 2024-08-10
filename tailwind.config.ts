@@ -12,7 +12,7 @@ const config: Config = {
         gray: {
           951: "#f4eee5",
           952: "#222",
-          953: "E9E4DB",
+          953: "#E9E4DB",
         },
         green: {
           951: "#9CAE96",
